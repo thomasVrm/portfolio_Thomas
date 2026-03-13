@@ -55,7 +55,7 @@ export function Hero() {
             {/* Badge */}
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-orange-500/30 bg-orange-500/10">
               <span className="text-orange-400 text-sm">
-                Prêt pour relevé des défis
+                Prêt pour relever des défis
               </span>
             </div>
 
